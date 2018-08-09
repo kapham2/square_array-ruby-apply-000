@@ -8,5 +8,5 @@ def square_array_advanced(array)
   array.collect{|a| a**2}
 end
 
-numbers = [1,2,3]
+numbers = [9,10,16,25]
 puts square_array_advanced(numbers)

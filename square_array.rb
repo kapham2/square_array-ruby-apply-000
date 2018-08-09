@@ -9,4 +9,4 @@ def square_array_advanced(array)
 end
 
 numbers = [1,2,3]
-puts square_array(numbers)
+puts square_array_advanced(numbers)

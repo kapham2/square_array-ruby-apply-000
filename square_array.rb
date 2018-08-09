@@ -7,6 +7,3 @@ end
 def square_array_advanced(array)
   array.collect{|a| a**2}
 end
-
-numbers = [9,10,16,25]
-puts square_array(numbers)
